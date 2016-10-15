@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Logan Paschke"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Logan Paschke"
+description              : "Logan's personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Logan Paschke"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Software developer, Traveller, Pilot"
+  location         : "Bloomington, MN"
   email            :
   uri              :
   bitbucket        :
