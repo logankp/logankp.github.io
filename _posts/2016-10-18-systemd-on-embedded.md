@@ -3,7 +3,7 @@ layout: single
 categories: [linux, technology, systemd]
 ---
 
-I run Debian Jessie on my Odroid 12c that I use as a NAS/media server, which means that the controversial [systemd](https://en.wikipedia.org/wiki/Systemd) is used as my init system. I've been using systemd since jessie was in testing and came to like it. It made configuring the boot process much easier and actually taught me a lot more about how Linux internals work. I'd never had a problem with it until powering on my odroid after a few months of it being off.
+I run Debian Jessie on my Odroid C1 that I use as a NAS/media server, which means that the controversial [systemd](https://en.wikipedia.org/wiki/Systemd) is used as my init system. I've been using systemd since jessie was in testing and came to like it. It made configuring the boot process much easier and actually taught me a lot more about how Linux internals work. I'd never had a problem with it until powering on my odroid after a few months of it being off.
 
 Normally my Odroid boots up in about 6 seconds and I'm able to SSH in. This time was different, however. I wasn't able to SSH in! Not having any way to view output or debug the boot process, I thought all was lost and I'd have to reinstall! What could have happened after not being powered on for a couple months? I then thought to plug in the external harddrive that I used to store my files. After turning the Odroid back on I was able to log in after about 6 seconds. Why would SSH be dependent on an external harddrive?
 
