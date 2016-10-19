@@ -21,6 +21,6 @@ For my first post, I will outline the reasons why I have started a blog:
 
 * Get Motivated
 
-    Whether it's getting motivated to work out, work on a side project, or learn new things, finding the motivation to do these things is not always easy. I'm hoping that by committing to this blog I can not only motivate myself to work on things but motivate others as well.
+    Whether it's working out, working on a side project, or learning new things, finding the motivation to actually do these things is not always easy. I'm hoping that by committing to this blog I can not only motivate myself to work on things but motivate others as well.
 
 Enjoy!
