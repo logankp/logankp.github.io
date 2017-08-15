@@ -19,7 +19,7 @@ locale                   : "en"
 title                    : "Logan Paschke"
 title_separator          : "-"
 name                     : "Logan Paschke"
-description              : "Logan's personal website - Tech, flying, traveling"
+description              : "Logan's personal website"
 url                      : "https://logankpaschke.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,6 +82,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
+twitter:
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -106,7 +108,7 @@ analytics:
 author:
   name             : "Logan Paschke"
   avatar           : "bio-photo.jpg"
-  bio              : "Software developer, Traveler, Pilot"
+  bio              : "Software developer, Traveller, Pilot"
   location         : "Bloomington, MN"
   email            :
   uri              :
@@ -209,7 +211,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
 
