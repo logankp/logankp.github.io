@@ -1,6 +1,7 @@
 ---
 layout: single
 category: general
+comments: true
 ---
 
 Welcome to my blog! Here I will write about the cool new technology I'm playing with, technological issues, random opinions on things, rants, and really anything that crosses my mind.
