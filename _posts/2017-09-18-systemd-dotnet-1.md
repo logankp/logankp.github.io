@@ -22,7 +22,7 @@ Open the `Program.cs` file with the text editor of your choice. We will now begi
 
    ```cs
    AssemblyLoadContext.Default.Unloading += SigTermEventHandler; //register sigterm event handler. Don't forget to import System.Runtime.Loader!
-   Console.CancelKeyPress += new ConsoleCancelEventHandler(CancelHandler); //register sigint event handler
+   Console.CancelKeyPress += CancelHandler; //register sigint event handler
    ```
 
 2. Then add the event handler methods in the Program class:
